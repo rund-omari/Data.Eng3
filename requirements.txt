@@ -1,0 +1,10 @@
+# Install with: python -m pip install -r requirements.txt
+pandas
+numpy
+matplotlib
+openpyxl
+pyarrow
+requests
+scikit-learn
+pandera
+python-dotenv
