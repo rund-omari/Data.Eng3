@@ -1,0 +1,121 @@
+Review ID,Review Date,Category,Channel,Rating,Review Text,Review Length
+REV-0001,2026-01-04,Beauty,Marketplace,1,Never ordering again. Support was unhelpful.,44
+REV-0002,2026-01-06,Accessories,Mobile App,2,The color is different from the photo.,38
+REV-0003,2026-01-08,Electronics,Website,2,I need to contact support@example.com today.,44
+REV-0004,2026-01-10,Home,Marketplace,5,This product is better than expected.,37
+REV-0005,2026-01-12,Fashion,Mobile App,4,Order arrived in Amman within 2 days.,37
+REV-0006,2026-01-14,Beauty,Website,2,Visit https://store.example.com/help for my issue.,50
+REV-0007,2026-01-16,Accessories,Marketplace,2,www.shop.example.com sent me the wrong size.,44
+REV-0008,2026-01-18,Electronics,Mobile App,4,Received my order yesterday. It works.,38
+REV-0009,2026-01-20,Home,Website,3,The headphones are too loud at low volume.,42
+REV-0010,2026-01-22,Fashion,Marketplace,4,Easy return process and friendly service.,41
+REV-0011,2026-01-24,Beauty,Mobile App,2,The delivery was VERY late!!! 😡 But the product is good.,56
+REV-0012,2026-01-26,Accessories,Website,3,The item looks nice but feels cheap.,36
+REV-0013,2026-01-28,Electronics,Marketplace,1,,0
+REV-0014,2026-01-30,Home,Mobile App,1,The charger does not work with my device.,41
+REV-0015,2026-02-01,Fashion,Website,1,Worst delivery experience: 12 days late.,40
+REV-0016,2026-02-03,Beauty,Marketplace,2,I can’t open the package easily.,32
+REV-0017,2026-02-05,Accessories,Mobile App,1,Not good at all. I want a refund!,33
+REV-0018,2026-02-07,Electronics,Website,3,"It was not bad, but delivery took 7 days.",41
+REV-0019,2026-02-09,Home,Marketplace,5,I LOVE the packaging!!! #happy,30
+REV-0020,2026-02-11,Fashion,Mobile App,5,Best purchase this month! <br> Thank you!,41
+REV-0021,2026-02-13,Beauty,Website,1,Not worth the money. NOT recommended.,37
+REV-0022,2026-02-15,Accessories,Marketplace,5,<span>Looks great</span> &amp; works well.,42
+REV-0023,2026-02-17,Electronics,Mobile App,5,<b>Great</b> value for the price!,33
+REV-0024,2026-02-19,Home,Website,5,The phone case fits well. 10/10!,32
+REV-0025,2026-02-21,Fashion,Marketplace,1,not good,8
+REV-0026,2026-02-23,Beauty,Mobile App,4,"Nice material, nice fit, nice price.",36
+REV-0027,2026-02-25,Accessories,Website,3,"A decent product, but setup took hours.",39
+REV-0028,2026-02-27,Electronics,Marketplace,2,Irbid delivery took longer than expected.,41
+REV-0029,2026-03-01,Home,Mobile App,1,,0
+REV-0030,2026-03-03,Fashion,Website,4,Customer support replied quickly & politely.,44
+REV-0031,2026-03-05,Beauty,Marketplace,5,"The screen is bright, and battery lasts long.",45
+REV-0032,2026-03-07,Accessories,Mobile App,4,Great product!!! But the box was damaged.,41
+REV-0033,2026-03-09,Electronics,Website,4,The product is NOT bad.,23
+REV-0034,2026-03-11,Home,Marketplace,5,  AMAZING quality!! Would buy again 😊  ,39
+REV-0035,2026-03-13,Fashion,Mobile App,5,Fast shipping!!! Product works perfectly.,41
+REV-0036,2026-03-15,Beauty,Website,3,This is okay... nothing special.,32
+REV-0037,2026-03-17,Accessories,Marketplace,3,  ,2
+REV-0038,2026-03-19,Electronics,Mobile App,5,Very good value for 25 JOD.,27
+REV-0039,2026-03-21,Home,Website,1,"No, I would not recommend it.",29
+REV-0040,2026-03-23,Fashion,Marketplace,5,"The package arrived on time, thank you.",39
+REV-0041,2026-03-25,Beauty,Mobile App,1,Never ordering again. Support was unhelpful.,44
+REV-0042,2026-03-27,Accessories,Website,2,The color is different from the photo.,38
+REV-0043,2026-03-29,Electronics,Marketplace,2,I need to contact support@example.com today.,44
+REV-0044,2026-03-31,Home,Mobile App,5,This product is better than expected.,37
+REV-0045,2026-04-02,Fashion,Website,4,Order arrived in Amman within 2 days.,37
+REV-0046,2026-04-04,Beauty,Marketplace,2,,0
+REV-0047,2026-04-06,Accessories,Mobile App,2,www.shop.example.com sent me the wrong size.,44
+REV-0048,2026-04-08,Electronics,Website,4,Received my order yesterday. It works.,38
+REV-0049,2026-04-10,Home,Marketplace,3,The headphones are too loud at low volume.,42
+REV-0050,2026-04-12,Fashion,Mobile App,4,Easy return process and friendly service.,41
+REV-0051,2026-04-14,Beauty,Website,2,The delivery was VERY late!!! 😡 But the product is good.,56
+REV-0052,2026-04-16,Accessories,Marketplace,3,The item looks nice but feels cheap.,36
+REV-0053,2026-04-18,Electronics,Mobile App,1,<p>Broken item</p> after just 3 days :(,39
+REV-0054,2026-04-20,Home,Website,1,The charger does not work with my device.,41
+REV-0055,2026-04-22,Fashion,Marketplace,1,Worst delivery experience: 12 days late.,40
+REV-0056,2026-04-24,Beauty,Mobile App,2,I can’t open the package easily.,32
+REV-0057,2026-04-26,Accessories,Website,1,Not good at all. I want a refund!,33
+REV-0058,2026-04-28,Electronics,Marketplace,1,not good,8
+REV-0059,2026-04-30,Home,Mobile App,5,I LOVE the packaging!!! #happy,30
+REV-0060,2026-05-02,Fashion,Website,5,Best purchase this month! <br> Thank you!,41
+REV-0061,2026-05-04,Beauty,Marketplace,1,Not worth the money. NOT recommended.,37
+REV-0062,2026-05-06,Accessories,Mobile App,5,<span>Looks great</span> &amp; works well.,42
+REV-0063,2026-05-08,Electronics,Website,5,<b>Great</b> value for the price!,33
+REV-0064,2026-05-10,Home,Marketplace,5,The phone case fits well. 10/10!,32
+REV-0065,2026-05-12,Fashion,Mobile App,4,"No issues so far, everything is fine.",37
+REV-0066,2026-05-14,Beauty,Website,4,"Nice material, nice fit, nice price.",36
+REV-0067,2026-05-16,Accessories,Marketplace,3,"A decent product, but setup took hours.",39
+REV-0068,2026-05-18,Electronics,Mobile App,2,Irbid delivery took longer than expected.,41
+REV-0069,2026-05-20,Home,Website,1,I ordered 2 items; only 1 arrived.,34
+REV-0070,2026-05-22,Fashion,Marketplace,4,Customer support replied quickly & politely.,44
+REV-0071,2026-05-24,Beauty,Mobile App,5,,0
+REV-0072,2026-05-26,Accessories,Website,4,Great product!!! But the box was damaged.,41
+REV-0073,2026-05-28,Electronics,Marketplace,5,   Good    quality   and     fast service.   ,45
+REV-0074,2026-05-30,Home,Mobile App,5,  AMAZING quality!! Would buy again 😊  ,39
+REV-0075,2026-06-01,Fashion,Website,5,Fast shipping!!! Product works perfectly.,41
+REV-0076,2026-06-03,Beauty,Marketplace,3,This is okay... nothing special.,32
+REV-0077,2026-06-05,Accessories,Mobile App,3,Product quality is good; shipping was SLOW.,43
+REV-0078,2026-06-07,Electronics,Website,5,Very good value for 25 JOD.,27
+REV-0079,2026-06-09,Home,Marketplace,1,"No, I would not recommend it.",29
+REV-0080,2026-06-11,Fashion,Mobile App,5,"The package arrived on time, thank you.",39
+REV-0081,2026-06-13,Beauty,Website,1,Never ordering again. Support was unhelpful.,44
+REV-0082,2026-06-15,Accessories,Marketplace,2,The color is different from the photo.,38
+REV-0083,2026-06-17,Electronics,Mobile App,2,  ,2
+REV-0084,2026-06-19,Home,Website,5,This product is better than expected.,37
+REV-0085,2026-06-21,Fashion,Marketplace,4,Order arrived in Amman within 2 days.,37
+REV-0086,2026-06-23,Beauty,Mobile App,2,Visit https://store.example.com/help for my issue.,50
+REV-0087,2026-06-25,Accessories,Website,2,www.shop.example.com sent me the wrong size.,44
+REV-0088,2026-06-27,Electronics,Marketplace,4,Received my order yesterday. It works.,38
+REV-0089,2026-06-29,Home,Mobile App,3,The headphones are too loud at low volume.,42
+REV-0090,2026-07-01,Fashion,Website,4,Easy return process and friendly service.,41
+REV-0091,2026-07-03,Beauty,Marketplace,2,,0
+REV-0092,2026-07-05,Accessories,Mobile App,3,The item looks nice but feels cheap.,36
+REV-0093,2026-07-07,Electronics,Website,1,<p>Broken item</p> after just 3 days :(,39
+REV-0094,2026-07-09,Home,Marketplace,1,The charger does not work with my device.,41
+REV-0095,2026-07-11,Fashion,Mobile App,1,Worst delivery experience: 12 days late.,40
+REV-0096,2026-07-13,Beauty,Website,2,I can’t open the package easily.,32
+REV-0097,2026-07-15,Accessories,Marketplace,1,Not good at all. I want a refund!,33
+REV-0098,2026-07-17,Electronics,Mobile App,3,"It was not bad, but delivery took 7 days.",41
+REV-0099,2026-07-19,Home,Website,4,The product is NOT bad.,23
+REV-0100,2026-07-21,Fashion,Marketplace,5,Best purchase this month! <br> Thank you!,41
+REV-0101,2026-07-23,Beauty,Mobile App,1,Not worth the money. NOT recommended.,37
+REV-0102,2026-07-25,Accessories,Website,5,<span>Looks great</span> &amp; works well.,42
+REV-0103,2026-07-27,Electronics,Marketplace,5,<b>Great</b> value for the price!,33
+REV-0104,2026-07-29,Home,Mobile App,1,not good,8
+REV-0105,2026-07-31,Fashion,Website,4,"No issues so far, everything is fine.",37
+REV-0106,2026-08-02,Beauty,Marketplace,4,"Nice material, nice fit, nice price.",36
+REV-0107,2026-08-04,Accessories,Mobile App,3,"A decent product, but setup took hours.",39
+REV-0108,2026-08-06,Electronics,Website,2,Irbid delivery took longer than expected.,41
+REV-0109,2026-08-08,Home,Marketplace,1,I ordered 2 items; only 1 arrived.,34
+REV-0110,2026-08-10,Fashion,Mobile App,4,Customer support replied quickly & politely.,44
+REV-0111,2026-08-12,Beauty,Website,5,"The screen is bright, and battery lasts long.",45
+REV-0112,2026-08-14,Accessories,Marketplace,4,,0
+REV-0113,2026-08-16,Electronics,Mobile App,5,   Good    quality   and     fast service.   ,45
+REV-0114,2026-08-18,Home,Website,5,  AMAZING quality!! Would buy again 😊  ,39
+REV-0115,2026-08-20,Fashion,Marketplace,5,Fast shipping!!! Product works perfectly.,41
+REV-0116,2026-08-22,Beauty,Mobile App,3,This is okay... nothing special.,32
+REV-0117,2026-08-24,Accessories,Website,3,Product quality is good; shipping was SLOW.,43
+REV-0118,2026-08-26,Electronics,Marketplace,5,Very good value for 25 JOD.,27
+REV-0119,2026-08-28,Home,Mobile App,1,"No, I would not recommend it.",29
+REV-0120,2026-08-30,Fashion,Website,5,"The package arrived on time, thank you.",39
